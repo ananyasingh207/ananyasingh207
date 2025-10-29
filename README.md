@@ -6,7 +6,7 @@
 
 ### 🧠 Technical Skills
 
-**Languages:** C, C++, Java, JavaScript
+**Languages:** C, C++, Java, JavaScript, Python
 **Frontend:** HTML, CSS, React.js, Tailwind CSS  
 **Backend:** Node.js, PHP  
 **Database:** MySQL, MongoDB  
