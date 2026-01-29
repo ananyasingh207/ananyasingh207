@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ananya Singh
+# Hi, I'm Ananya Singh
 
 💡 A curious learner exploring web development and programming.  
 
